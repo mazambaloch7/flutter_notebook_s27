@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 demo
-### EP1357-1360  This series consist of 4 video
+### EP1357-1360 part 1
+ This series consist of 4 video
 
 - Coinze Crypto Wallet App
 - by Musemind Mobile for Musemind
